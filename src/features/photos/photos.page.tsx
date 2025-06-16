@@ -20,7 +20,7 @@ export const PhotosPage = () => {
       <div className="relative">
         <img
           className="w-full max-h-64 object-cover"
-          src="/src/shared/assets/bg.jpg"
+          src="/assets/bg.jpg"
           alt="bg"
         />
         <div className="absolute px-5 inset-0 flex items-center justify-center">
